@@ -1,0 +1,9 @@
+{
+    "name": "no-name",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "webpack-babel-multi-target-plugin": "2.3.3",
+        "webpack": "4.42.0",
+        "webpack-cli": "3.3.11"
+    }
+}
